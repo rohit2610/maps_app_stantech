@@ -5,7 +5,7 @@ import Geolocation from 'react-native-geolocation-service';
 
 const GOOGLE_MAPS_API = ""
 
-const Home = () => {
+const Maps = () => {
 
     const [coordinates, setCoordinates] = useState([]);
     const [polyLines, setPolyLines] = useState([]);
@@ -223,4 +223,4 @@ const styles = StyleSheet.create({
     },
 });
 
-export default Home;
+export default Maps;
