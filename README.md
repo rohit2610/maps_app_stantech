@@ -23,3 +23,6 @@ This React Native project integrates a Maps API, displaying a dynamic map center
 - Get your google maps api key from google console. Follow these [instruction](https://github.com/react-native-maps/react-native-maps/blob/HEAD/docs/installation.md) to get google maps api key and to enable Direction api.
 - Place google api key in AndroidManifest.xml and in src/maps/index.js under GOOGLE_MAPS_API variable.
 
+
+![](https://github.com/rohit2610/maps_app_stantech/assets/33067209/a0ae3d52-957d-4ce8-9a30-9d33530f26a3)
+
